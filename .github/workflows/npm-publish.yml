@@ -3,7 +3,7 @@ name: npm-publish
 on:
   push:
     branches:
-      - trunk
+      - main
 
 jobs:
   publish:
