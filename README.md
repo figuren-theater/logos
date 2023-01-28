@@ -1,22 +1,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/figuren-theater/ft-logos">
-    <img src="https://github.com/figuren-theater/.github/assets/favicon.png" alt="figuren.theater Logo" width="100" height="100">
+  <a href="https://github.com/figuren-theater/logos">
+    <img src="https://github.com/figuren-theater/logos/favicon.png" alt="figuren.theater Logo" width="100" height="100">
   </a>
 
   <h1 align="center">figuren.theater | Logos</h1>
 
   <p align="center">
-    The current logo of the WordPress Multisite network for puppeteers <a href="https://figuren.theater">figuren.theater</a>, in all needed variations &amp; sizes.
+    The current logo of the WordPress Multisite network for puppeteers - <a href="https://figuren.theater">figuren.theater</a>, in all needed variations &amp; sizes.
     <br />
     <a href="https://meta.figuren.theater/blog"><strong>Read our blog</strong></a>
     <br />
     <br />
     <a href="https://figuren.theater">See the network in action</a>
-    |
+    •
     <a href="https://mein.figuren.theater">Join the network</a>
-    |
+    •
     <a href="https://websites.fuer.figuren.theater">Create your own network</a>
   </p>
 </div>
@@ -34,22 +34,32 @@ Not yet auto-generated from one source, but at least one repo as the first step.
 
 Don't repeat yourself. And don't have multiple versions of your logo flying around.
 
-## Install
+## Installation
+
+### Install with composer
 
 1. Add this repository to your `composer.json`
 ```json
 "repositories": [
     {
         "type": "git",
-        "url": "https://github.com/figuren-theater/ft-logos"
+        "url": "https://github.com/figuren-theater/logos"
     }
 ]
 ```
 
 2. Install via command line
 ```sh
-composer require figuren-theater/ft-logos
+composer require figuren-theater/logos
 ```
+
+### Install with npm
+
+1. Install via command line
+```sh
+npm install @figuren.theater/logos
+```
+
 
 ---
 
