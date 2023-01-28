@@ -1,0 +1,29 @@
+{
+  "name": "@figuren.theater/logos",
+  "version": "1.0.0",
+  "description": "The current figuren.theater logo in all needed variations & sizes. Not yet auto-generated from one source, but at least one repo as the first step.",
+  "author": "figuren.theater <info@figuren.theater> (https://figuren.theater)",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "keywords": [
+    "logo",
+    "favicon"
+  ],
+  "homepage": "https://figuren.theater",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/figuren-theater/logos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/figuren-theater/logos/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@wordpress/components": "^23.2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "figuren-theater/logos",
+    "description": "The current figuren.theater logo in all needed variations & sizes. Not yet auto-generated from one source, but at least one repo as the first step.",
+    "type": "metapackage",
+    "homepage": "https://figuren.theater",
+    "keywords": ["logo", "favicon"],
+    "authors": [
+        {
+            "name": "figuren.theater",
+            "email": "info@figuren.theater"
+        },
+        {
+            "name": "Carsten Bach",
+            "email": "mail@carsten-bach.de",
+            "homepage": "https://carsten-bach.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
