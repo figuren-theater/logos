@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/figuren-theater/logos">
-    <img src="https://github.com/figuren-theater/logos/favicon.png" alt="figuren.theater Logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/figuren-theater/logos/main/favicon.png" alt="figuren.theater Logo" width="100" height="100">
   </a>
 
   <h1 align="center">figuren.theater | Logos</h1>
